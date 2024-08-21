@@ -1,4 +1,4 @@
-# React challenge
+# React challenge - Képe Lívia
 
 Create a React component for listing heroes.
 
